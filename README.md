@@ -1,5 +1,5 @@
 # crypto-prices-with-dedicated-link
-get selected coin of CryptoCurrency price with api
+get CryptoCurrency price from api
 
 go to install project
 
